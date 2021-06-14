@@ -2,7 +2,7 @@
 
 파이썬으로 제작한 디스코드 봇이다.
 
-※현재 nhd봇은 서비스가 종료되었습니다. 급식 관련 정보는 ROYBOT을 이용해주시기 바랍니다.
+※현재 nhd봇은 서비스가 종료되었습니다. 급식 관련 정보는 [ROYBOT](https://github.com/roy2554/ROY-BOT-discord)을 이용해주시기 바랍니다.
 ---
 
 > [봇 초대하기(서비스 종료)](https://discord.com/oauth2/authorize?client_id=845098090830889000&scope=bot)
