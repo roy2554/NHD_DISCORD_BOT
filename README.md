@@ -1,8 +1,11 @@
-# nhd_bot
+# nhd_bot(서비스 종료)
 
 파이썬으로 제작한 디스코드 봇이다.
 
-[봇 초대하기](https://discord.com/oauth2/authorize?client_id=845098090830889000&scope=bot)
+※현재 nhd봇은 서비스가 종료되었습니다. 급식 관련 정보는 ROYBOT을 이용해주시기 바랍니다.
+---
+
+> [봇 초대하기(서비스 종료)](https://discord.com/oauth2/authorize?client_id=845098090830889000&scope=bot)
 
 사실 능허대 중학교 안다니면 드럽게 쓸떄 없으니 주의
 
